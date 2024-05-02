@@ -1,0 +1,128 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.container{
+    height:1100px;
+    width:auto;
+    background-image:url("https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539eff/d23a1608-7d90-4da1-93d6-bae2fe60a69b/IN-en-20230814-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+    background-position: cover;
+}
+
+.headerimg{
+    padding:20px 0px 0px 40px;
+   
+}
+
+.middle{
+    height:auto;
+    width:auto;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.center{
+    height:675px;
+    width:450px;
+    background-color:#000000d2;
+    margin-top:15px;
+}
+h1{
+    font-size: 35px;
+    margin:50px 0px 0px 63px;
+    color:#FFFFFF;
+}
+
+.username{
+    height:50px;
+    width:315px;
+    margin:25px 0px 0px 63px;
+    border-radius:5px;
+    background-color: #333333;
+    font-size:17px;
+    border:1px solid #333333;
+    color:white;
+}
+.passward{
+    height:50px;
+    width:315px;
+    margin:10px 0px 0px 63px;
+    border-radius:5px;
+    background-color: #333333;
+    font-size:17px;
+    border:1px solid #333333;
+    color:white;
+
+
+}
+
+.button{
+    height:50px;
+    width:315px;
+    margin:35px 0px 0px 63px;
+    border-radius:5px;
+    background-color:#E50914;
+    color:white;
+    font-size:20px;
+}
+
+.checkbox{
+    margin:20px 0px 0px 63px;
+    font-size: 17px;
+    color:#B3B3B3;
+    background-color:#B3B3B3 ;
+}
+.check{
+    margin:20px 40px 0px 0px;
+    font-size: 17px;
+    color:#B3B3B3;
+
+}
+.div2{
+    margin:80px 40px 0px 63px;
+    font-size: 20px;
+    color:#B3B3B3;
+
+}
+.div{
+    margin:20px 40px 0px 63px;
+    font-size: 15px;
+    color:#B3B3B3;
+}
+.last{
+    margin:15px 40px 0px 63px;
+    font-size: 15px;
+    color:#B3B3B3;
+    
+}
+.lastdiv{
+    height:280px;
+    width:auto;
+    background-color:#000000d2;
+    margin-top:80px;
+    color:#737373;
+}
+.lastdiv p{
+    padding:50px 0px 40px 200px;
+    font-size: large;
+}
+.lasta{
+    margin:50px 40px 40px 200px;
+    font-size: large;
+
+}
+#language{
+    margin:30px 0px 0px 200px;
+    font-size:medium;
+    background-color:rgba(0, 0, 0, 0.633);
+    height:40px;
+    width:110px;
+    color:#737373;
+}
+.lastanchor{
+   
+    padding:0px 120px 40px 120px;
+    
+}

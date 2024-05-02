@@ -1,0 +1,278 @@
+body{
+    background-color: rgb(49, 48, 48);
+}
+.firstmain{
+    background-image:url("https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539eff/d23a1608-7d90-4da1-93d6-bae2fe60a69b/IN-en-20230814-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+    background-position: cover;
+    height:800px;
+    width:auto;
+}
+.header{
+    width:auto;
+    height:90px;
+    color:white;
+    display:flex;
+
+}
+.img{
+    padding:20px 0px 0px 150px;
+}
+.input select{
+    margin:20px 0px 0px 650px;
+    background-color: black;
+    color:white;
+    width:130px;
+    height:35px;
+    border-radius:5px;
+    opacity: 90%;
+    font-size:medium;
+    border: 1px solid rgb(105, 103, 103);
+}
+.btn button{
+    margin:20px  0px 0px 20px;
+    background-color:#E50914;
+    color:white;
+    width:76px;
+    height: 34px;
+    border-radius:6px;
+    font-size:15px;
+    border:0.5px solid #E50914;
+}
+.h1{
+    color:#FFFFFF;
+    font-size:50px;
+    padding:170px 0px 0px 250px;
+}
+.p1{
+    color:#FFFFFF;
+    font-size: 25px;
+    padding-left:500px;
+}
+.h3{
+    color:#FFFFFF;
+    font-size:20px;
+    padding-left:360px;
+}
+.aryan{
+    color:#FFFFFF;
+    background-color:black;
+    height:50px;
+    width:380px;
+    font-size: 17px;
+    border-radius:8px;
+    margin-left:370px;
+}
+.getstarted{
+    background-color:red;
+    color:#FFFFFF;
+    height:56px;
+    width:200px;
+    font-size: 23px;
+    border-radius: 8px;
+}
+
+.secondmain{
+    height:535px;
+    width:100%;
+    background-color: black;
+    display:flex;
+}
+.h2{
+    color:white;
+    font-size: xxx-large;
+    padding:136px 0px 0px 150px;
+}
+.p{
+    color:white;
+    font-size: x-large;
+    padding:0px 0px 0px 150px;
+}
+.computer{
+    height:370px;
+    width:500px;
+    margin:70px 0px 0px 100px;
+    background-image: url("https://i.ytimg.com/vi/UErm8KX362k/maxresdefault.jpg");
+    background-size:cover;
+}
+
+.thirdmain{
+    height:535px;
+    width:100%;
+    background-color: black;
+    display:flex;
+    color:white;
+}
+.h22{
+    font-size:50px;
+}
+.p22{
+    font-size:25px;
+}
+.mobile{
+    height:350px;
+    width:500px;
+    padding:70px 0px 0px 150px;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg");
+}
+.thirdseconddiv{
+    padding:100px 0px 0px 20px;
+}
+.thirdmainsecond{
+    display:flex;
+    border-radius:15px;
+    height:90px;
+    width:320px;
+    border:4px solid grey;
+    margin:250px 0px 0px 8px;
+    background-color: black;
+    opacity:0.95;
+}
+.thirdmainsecondImg{
+    height:85px;
+    width:80px;
+    border-radius: 5px;
+    padding:2px 1px 2px 20px;
+}
+.thirdmainsecondPara{
+    padding:30px 0px 0px 20px;
+}
+.thirdmainsecondIcon{
+padding:30px 0px 0px 25px;
+font-size: larger;
+}
+.fourmain {
+    height:535px;
+    width:100%;
+    background-color: black;
+    color:white;
+    display:flex;
+    
+}
+
+.hloo{
+   
+    height:350px;
+    width:400px;
+    margin:80px 0px 0px 70px;
+    
+    height:200px;
+    width:300px;
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBAPDw8PDw8QDw8PDw8PDw8PDxIPDw8PGBQZGRkUGBgcIS4lHB4rHxgYJjgmKy8xNTVDGiQ7QDs0Py40NTEBDAwMEA8QGhISHzQjISQ0NDE1NDQ0NDQ0NDE0NDQ0NDQ0NDQ0NDE0NDQ0NDE0MTQ0NDQ0NDQxNDQ0NDQxNDYxNP/AABEIAKgBKwMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAAAQIDBAUGB//EAD0QAAIBAgIGBggEBAcAAAAAAAABAgMRBBIFFSExUaETFCJBUpEyU2FxgZKi0UJi0uEGIzNDVHKCsbLB8P/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgQDBf/EADURAAIBAgQBCAkEAwAAAAAAAAABAgMRBCExURITFEFSU2GR0QUVIjJxgZKhsSND4fBigsH/2gAMAwEAAhEDEQA/APxkAAAAAEokhEkNIAAFABYAAgAEkAAoAAAAJAAAIUgEgCxAJAFiASACAAUgAABIIJBCrKlmVKZYAAIAAAAAAAAASiSESQ0BcEFI2TcXIAFybi5AAuybi5UAXZa4uVAF2WuMxUAXZfMMxQCwuy+Yi5UkC7JuLgCwuxcXBAsOJk3FyCQLsXFwQLC7LICIIaRDKlmVKZYAAIAAAAAAAAASiWQiSGloQQiSEUjJAAIAAAACQCACSgqASQEAkkAqWIABIAKCAAQAAAAAAEokRQIbWhDKlpFSkYAAMgAAAAAAAAFgQiSGkCpYqUjJAAICQAAACgAEAEAkEF0QSQSBdAEEgAAAAAAAAAAAAFoskiJJD0WhVkEyIKZepAABkAAAAAAAAAsASyGkQVLFSkYAJBCQAUAggEBLPsKuEj1nDVFCGV56co5OxmyycXl8/I+PZ9xCT6z0dn/SpVUuEldPk+R4V21a3eff9BwjN1FLrU/FOT+9rfM8rBxaw8pU6EK0+tSjlnDN2bIz0ZiukxDozo0V0kpuXYu4ZYPsx4eiaYROWHlGFeNCfWpyzSnk7OU5NHqNLHRzVYTjHpG6uZ5JOVJ9/vdjNk1O+ue50VKlSm8I4u0W4J+7bPX/ACva975W0zOrA1ulr4h9DSvToTjCEIdiUk9mzia4RyniclbD0qTVCXYjCNnmfpd5waNrRhPFuU1HNRqKD3ZpX2WGhMQ+nlKrPfTlHNUlyuxKHvW2W4w+Lu8PGUs5Sk37trKWXFlfa1rLXUw0Ck8VSTSafSXT3ehI7cFSjW6zhmlFubnTmo3lGz7UV5IYDCRoYnDtV6VRPpruLXY/lvft77l8Blo9Pi57V0jpQS37Xta/93M1N3ba7rfG5z4GhKlTjCqkkpT481bg5ON7tfaz1scOnK0ZVnGEYxhSWSKjsTa3vz2fA8w9LTmF6HETW3LO04+1PfzueaesLcKsfLx3Hzmpyis+J/x8rWt3AAGjkAAAAAALR7yRAEPVaESKlpFSow9SAADIAAAAAAAABYllUWZDS0BUuUKJEEgAyAAUAAAAvKTltk8z4ttsoCF7iASQCWQAJAIJAAsjRzbtdt22K7bt7jMAFuAACAAAoAABeIIgSQ9FoRIqWkVKjD1IAAMgAAAAAAAkAks0ViaSW0h6RWRWxQ3jExlvfvYQmrJFQSCnmCCSQCpIAAAAKAAAAAAAAACSAAAAAAACAkqSCmkES0bYWF4t+1FpwM3zOqNJuCZyMqaVd5mVHPLJsgAFMAAAAAAAkgkAmJpUdmZo1qQuydJ6pNxy7hRbckveZS3v3nRh6favfddFHh6jbtCW/gS6NOE3BZN5vvMAaqlLNkyvPe2XvudC0ZiH/Zn5FulqZhQqzvwRbtsmziJOyto+vTWadNwXF22+7btMqOFq1LqEHK1t3tHEtbldCqpcDg+Lazv4amAO7VWJ9TLl9yNVYn1E/JE4o7rxN80xHZy+mXkcQO3VWI9RMarxHqJ+Q4o7oc0xHZy+mXkcQO3VeI9RPyKTwNdO0qM7/wCVl4luR4Wus3CS/wBX5HKDpjgqzvalUdld9h7FxI6nW9VP5WLoxyNTqvwZzg7NW4nf0FTbt9FjVuI/w9T5WTijuvE3zTEdnL6ZeRxg69W4j1FT5GNW4j1FX5GXijuOaYjs5fS/I5AdercR6ip8jEtHV1tdGa+A4luHha6/bl9L8jkBpGnJtRS2t2S9p0vRmJW/D1F/oYbS1MQoVaibhFytsm/wjhB2atxHqKnyMh6Prr+xU+Vjijub5rXX7cvpfkKUnGlKS8aXIydeT3vkjuoYWTpTjNSg80Wrx4HNHDXjmzcdluDsS6PWpTqqMErrL4aPPIxrb/gZmtf0vgjMq0OafvMqACnmAAAAAAAAAWTNOku9xiWJY2pNG9OpZvZ3nVTxiX4X5nnJllMjR70sRKGjOiFdLEdK1sU81u89GrpypLs0Y5PzPty+yPFTXebQrJbthmUIu11c9aGMrU1KMZ8Kk7u2vj0fI1TUp5q1Rt7c123P3Xs7HXgsVGlWThF9FNxvHPnksvfmyr2nkPa2/aa0ZqLTb3FcbozQxUoTTVk73vq9s291e6yT2PrFpWn4an0fcazh4an0/c+dWKjx5MnrcePJnlyKPveu59ZH0WtKfgqfR9yNaU/DU+j9R891uPHkx1uPF+THJIvruXWR9DrSn4an0fqK1tM06aUstRvco9lI8DrceL8mY4mtGaVm7oKkjzq+m6vA+CSuenS/iKol2oZ3du+ZR7PdHYu4iP8AEVVTk3GLi7Whf0Lb7P2nmU60YxSyRb4srVrKVuylZ92w3ycdj5vrLFqK/XeXRb8u2fzv45n09HTNKaulVTXpK0fuaazp+Gp9H6j5bC1Ywu23wXuN+tR4vyZh0kfSo+nKrguNq59DrWn4an0/qI1rT9XU+j9R891qPHkyOsx48mTkY7G/Xc90fQ61h4Kn0o48ZpZ5VJJ509zglCF+/btlyPL6zHjyZlVrRkrX5M0qST0Oev6Xqzg0ppZf3+/9OqeFpOCy5s/4puScJP3W7JGHxWIw/oyTh4HacPLfE5qeISSTL9aXt5m7PR5nAq1NNTg+CS6uXjbXvvr0nrU/4hi126clL8kk4vzJlpem90J/QzwqlSEu7bx3FISSb3meSjsdD9MYrKLmmt7I9WtpCMk7Rlu4nDCulFKz79vvdzCc0yl0bUUcNXF1Jyu2XrO8rrgZhsg2ccndtkAAGQAAAAAAWiipZAImxDQDBpmsaa4s2jh4PvkYxZLqv8PmZzOiPAtUdccHTffLz/Y2jo2k/wAU/NfY89Yqa3SXyoutIVF4flRGpHTTr4Ve9D7fyemtEUeNTkXWhqHGp5o8xaUqfk+RFtbVfy/KjLjU3OuOK9HLWn9v5PS1LQ41PNHLiNH041qFNObjV9N/iXu2E4PH1ZyWbJl2/hVy2Kq3r4d8DK475s9KjwdSkp06aXtRWlsuJX6elEUdG05Vq1Nymo08mVre8y7zp1JQ8VTkZ4ep/PxD49H/AMTq6YknK+TPfDUcK4Pipp+1LwUnbwVkY6koeKpyGo6Piqci/WR1lk9vc9uTwPZoz1HR8VXkRqSj4qnI26yyOsse3uOSwPZrwM9S0PFV5DUtHxVORp1phYhst57k5LBdmjmxOiqUKc5pzbjDMrtWOWvgoRjh2nK9W2dWWzYt3mdeOxC6Od3tlFRS47TnxM+xhVwa/wBkajxZXf8AbHBiqeGvJRglZR8XLyOt6Go7dtTkRqah4qnI2dba/eVdYzeW53Ojg1+3Eyeh6HiqciHomhxqcjR1ijre0t5bnlKnhOziZy0ZRXfU80YywFJd8/P9jeVQwnM0m9zmqRw/RBGMsJBeLzX2OWrBRkkr2OmUzmqPtI2j5ldQtkrFXFEWViWyHuKc7sUABTzAAAAAABZAAAWJBDZMlsMwAhLUAApkAAA78HLbH4mlf+rRAPPpPp03+gvjH8o2gkpyl4rX+BOIq5IOVr7UuABOk6ZNxpTa72cnXl4H8w6+vA/n/YA9OFHy+dVut9l5Dr68D+YdfXg+r9gCcKHOq3W+y8iHjn4fqNcPi80lHLa99uYAjSselLEVXUinLVroXka1oJp7NrVm++3A56+xUVwl/wBIAkTrxCSjJru/KZ2Ni4BEdbMq1RRjmtfuXvOKEqks0ore+17/AIkgq0ufPq3nWUL2Vr5fBlZuaeZq1lb4FqdbNsa2gGtTnnenUSTvfcmTMJbwASZRksApzsoACmQAAD//2Q==");
+    background-size:cover;
+}
+
+.mainfour{
+    padding:130px 0px 0px 150px;
+}
+.fourmoniter{
+    height:200px;
+    width:300px;
+}
+.fivemain{
+    height:535px;
+    width:100%;
+    background-color: black;
+    color:white;
+    display:flex;
+
+}
+.fivediv{
+    padding:85px 0px 0px 20px;
+
+}
+.fiveimg{
+    height:400px;
+    width:500px;
+    padding:65px 0px 0px 160px;
+}
+.sixh2{
+    text-align:center;
+    font-size:48px;
+    padding:80px 0px 0px 0px;
+}
+.sixmain{
+    height:1000px;
+    width:100%;
+    background-color: black;
+    color:white;
+    text-align: center;   
+}
+
+
+.sixmainjs{
+    height:1100px;
+    width:100%;
+    background-color: black;
+    color:white;
+    text-align: center;   
+}
+
+.t1t1{
+    height:100px;
+    width:80px;
+}
+
+.sixbutton{
+    height:95px;
+    width:80%;
+    text-align:left;
+    background-color: rgb(33, 34, 33);
+    color:white;
+    border:5px solid black;
+    font-size: 25px;
+    padding:20px;
+    transition-delay:0.1s;
+}
+
+.sixbutton:hover{
+    
+    background-color: rgb(54, 55, 54);
+}
+
+h3{
+    font-size:25px;
+}
+.sixinput{
+    border:2px solid green;
+    height:50px;
+    width:400px;
+    background-color: rgb(9, 9, 52);
+    color:white;
+    border-radius:5px;
+}
+
+i{
+    float: right;
+}
+.last{
+    height:460px;
+    width:100%;
+    background-color: black;
+    color:rgb(183, 179, 179);
+}
+.inputlast select{
+    background-color: black;
+    color:rgb(184, 182, 182);
+    width:130px;
+    height:35px;
+    border-radius:5px;
+    opacity: 90%;
+    font-size:medium;
+    border: 1px solid rgb(105, 103, 103);
+    margin-left:145px;
+}
+.allul{
+    height:200px;
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+    text-decoration: underline;
+   
+}
+.lastp1{
+    padding:100px 0px 0px 145px;
+}
+.lastp2{
+    margin-left:145px;
+}
